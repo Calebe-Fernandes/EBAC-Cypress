@@ -16,7 +16,7 @@ As tecnologias utilizadas foram:
 
 - 💠 **Cypress** —  Como ferramenta de automação
 
-- ⚠️ **JavaScript** — Para integração de API e manipulação de informações
+- ⚠️ **JavaScript**
 
  ## Requisitos do desafio
 
