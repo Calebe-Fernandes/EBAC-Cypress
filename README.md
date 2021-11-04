@@ -21,7 +21,7 @@ As tecnologias utilizadas foram:
  ## Requisitos do desafio
 
 **Automação no Dev Finance** 
-- Automatizar uma jornada de exclusçao de entrada ou saída
+- Automatizar uma jornada de exclusão de entrada ou saída
 - Automatizar uma jornada de inclusão de saída
 - Adicionar o projeto no GitHub com um GIF da execução
 - Enviar a URL para correção
